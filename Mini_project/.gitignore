@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.db
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+venv/
+.env.*
+
+# OS generated
+.DS_Store
+Thumbs.db
